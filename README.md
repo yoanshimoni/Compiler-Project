@@ -1,1 +1,2 @@
-# OS-Assignment1
+# Compiler-Project
+Syntactic analysis, semantic analysis, code generation.
